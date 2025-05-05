@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
+## Unreleased (2025-05-05)
 
 <section class="issues">
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#4984](https://github.com/stdlib-js/stdlib/issues/4984)
+[#4984](https://github.com/stdlib-js/stdlib/issues/4984), [#6432](https://github.com/stdlib-js/stdlib/issues/6432)
 
 </section>
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`b0c4a5a`](https://github.com/stdlib-js/stdlib/commit/b0c4a5aa2bfd9f4a1660b202ed8eb30759bcf1e7) - **chore:** fix EditorConfig lint errors [(#6931)](https://github.com/stdlib-js/stdlib/pull/6931) _(by Lalit Narayan Yadav)_
 -   [`28b78a0`](https://github.com/stdlib-js/stdlib/commit/28b78a0590907a6757bc6fd4c9e88d9109280950) - **bench:** refactor random number generation in `stats/base/dists/poisson` [(#5106)](https://github.com/stdlib-js/stdlib/pull/5106) _(by pranav-1720)_
 
 </details>
@@ -36,8 +37,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Lalit Narayan Yadav
 -   pranav-1720
 
 </section>
