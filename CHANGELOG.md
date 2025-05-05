@@ -6,13 +6,23 @@
 
 ## Unreleased (2025-05-05)
 
+<section class="features">
+
+### Features
+
+-   [`ad92859`](https://github.com/stdlib-js/stdlib/commit/ad92859bc6c33d55d94fdc7f8430f5d7a52afbab) - add C implementation for `stats/base/dists/poisson/median` [(#4018)](https://github.com/stdlib-js/stdlib/pull/4018)
+
+</section>
+
+<!-- /.features -->
+
 <section class="issues">
 
 ### Closed Issues
 
-A total of 2 issues were closed in this release:
+A total of 3 issues were closed in this release:
 
-[#4984](https://github.com/stdlib-js/stdlib/issues/4984), [#6432](https://github.com/stdlib-js/stdlib/issues/6432)
+[#3790](https://github.com/stdlib-js/stdlib/issues/3790), [#4984](https://github.com/stdlib-js/stdlib/issues/4984), [#6432](https://github.com/stdlib-js/stdlib/issues/6432)
 
 </section>
 
@@ -24,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`ad92859`](https://github.com/stdlib-js/stdlib/commit/ad92859bc6c33d55d94fdc7f8430f5d7a52afbab) - **feat:** add C implementation for `stats/base/dists/poisson/median` [(#4018)](https://github.com/stdlib-js/stdlib/pull/4018) _(by Manvith M, Philipp Burckhardt, stdlib-bot)_
 -   [`b0c4a5a`](https://github.com/stdlib-js/stdlib/commit/b0c4a5aa2bfd9f4a1660b202ed8eb30759bcf1e7) - **chore:** fix EditorConfig lint errors [(#6931)](https://github.com/stdlib-js/stdlib/pull/6931) _(by Lalit Narayan Yadav)_
 -   [`28b78a0`](https://github.com/stdlib-js/stdlib/commit/28b78a0590907a6757bc6fd4c9e88d9109280950) - **bench:** refactor random number generation in `stats/base/dists/poisson` [(#5106)](https://github.com/stdlib-js/stdlib/pull/5106) _(by pranav-1720)_
 
@@ -37,9 +48,11 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Lalit Narayan Yadav
+-   Manvith M
+-   Philipp Burckhardt
 -   pranav-1720
 
 </section>
