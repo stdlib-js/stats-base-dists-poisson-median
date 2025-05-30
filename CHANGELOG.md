@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-05)
+## Unreleased (2025-05-30)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`c24ea87`](https://github.com/stdlib-js/stdlib/commit/c24ea877723f2ac751abb70e8d3f38362f846a43) - **test:** add missing skips for native add-on tests _(by Philipp Burckhardt)_
 -   [`ad92859`](https://github.com/stdlib-js/stdlib/commit/ad92859bc6c33d55d94fdc7f8430f5d7a52afbab) - **feat:** add C implementation for `stats/base/dists/poisson/median` [(#4018)](https://github.com/stdlib-js/stdlib/pull/4018) _(by Manvith M, Philipp Burckhardt, stdlib-bot)_
 -   [`b0c4a5a`](https://github.com/stdlib-js/stdlib/commit/b0c4a5aa2bfd9f4a1660b202ed8eb30759bcf1e7) - **chore:** fix EditorConfig lint errors [(#6931)](https://github.com/stdlib-js/stdlib/pull/6931) _(by Lalit Narayan Yadav)_
 -   [`28b78a0`](https://github.com/stdlib-js/stdlib/commit/28b78a0590907a6757bc6fd4c9e88d9109280950) - **bench:** refactor random number generation in `stats/base/dists/poisson` [(#5106)](https://github.com/stdlib-js/stdlib/pull/5106) _(by pranav-1720)_
